@@ -47,27 +47,27 @@ body {
 }
 
 .panel-candace {
-    background-image: url(/images/Candace-1.jpg);
+    background-image: url(./Candace-1.jpg);
 }
 
 .panel-me {
-    background-image: url(/images/Michael-1.jpg);
+    background-image: url(./Michael-1.jpg);
 }
 
 .panel-father {
-    background-image: url(/images/Father-1.jpg);
+    background-image: url(./Father-1.jpg);
 }
 
 .panel-mom {
-    background-image: url(/images/Cynthia-3.jpg);
+    background-image: url(./Cynthia-3.jpg);
 }
 
 .panel-neko {
-    background-image: url(/images/Neko-2.jpg);
+    background-image: url(./Neko-2.jpg);
 }
 
 .panel-crystal {
-    background-image: url(/images/Crystal-1.jpg);
+    background-image: url(./Crystal-1.jpg);
 }
 
 /* Flex Children */
